@@ -1,7 +1,7 @@
 # Onkar_Portfolio
-Motivated, team-work oriented and an experienced Data Scientist who takes pride in building models that translate data points into business insights. Interested in working on projects offering learning and understanding in the fields of Machine Learning, Deep Learning, Natural Language Processing, Big Data Analytics and Data Visualization. 
-Currently, I am working as Data Scientist at BioEnable Technologies, Pune.
-Please find below list of some of the interesting projects I have worked on. For complete list please check other repositories. 
+Motivated, team-work oriented and an experienced Data Scientist who takes pride in building models that translate data points into business insights. Interested in working on projects offering learning and understanding in the fields of Machine Learning, Deep Learning, Natural Language Processing, Big Data Analytics and Data Visualization.                                                    
+Currently, I am working as Data Scientist at BioEnable Technologies, Pune.                                                           
+Please find below list of some of the interesting projects I have worked on. For complete list please check other repositories.        
 
 
 # Project 1: Data Science Salary Estimator : (Web Scapping and Regression Techniques) 
