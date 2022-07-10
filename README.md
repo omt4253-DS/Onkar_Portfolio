@@ -6,7 +6,7 @@
 
 ### Glad to see you here!
 I am a motivated, team-work oriented and an experienced Data Scientist who takes pride in building models that translate data points into business insights.
-Interested in working on projects offering learning and understanding in the fields of Machine Learning, Deep Learning, Natural Language Processing, Big Data Analytics and Data Visualization.                                                                                                               
+Most of my time is spent staring at a computer screen. During the day, I am usually programming, working to derive insight from large datasets. My skills include data analysis, visualization, and machine learning. I have developed a strong acumen for problem solving, and I enjoy an occasional challenge. I often work on end-to-end data science projects that usually begin from collecting data from third party sources and end with delivering business insight in the form of customer segments.       
 Please find below list of some of the interesting projects I have worked on. For complete list please check other repositories.        
 
 ### Speech to Text conversion : 
