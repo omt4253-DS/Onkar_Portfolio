@@ -5,7 +5,8 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 ### Glad to see you here!
-I am a motivated, team-work oriented and an experienced Data Scientist who takes pride in building models that translate data points into business insights. Interested in working on projects offering learning and understanding in the fields of Machine Learning, Deep Learning, Natural Language Processing, Big Data Analytics and Data Visualization.                                                                                                               
+I am a motivated, team-work oriented and an experienced Data Scientist who takes pride in building models that translate data points into business insights.
+Interested in working on projects offering learning and understanding in the fields of Machine Learning, Deep Learning, Natural Language Processing, Big Data Analytics and Data Visualization.                                                                                                               
 Please find below list of some of the interesting projects I have worked on. For complete list please check other repositories.        
 
 ### Speech to Text conversion : 
@@ -13,18 +14,18 @@ Please find below list of some of the interesting projects I have worked on. For
 - Converted IVR audio clips to text.
 - Trained Deepspeech model on IVR dataset and converted speecg to text.
 
-#### Predictive maintenance of conveyor motors :
-Worked on Atos Digital-Twin Platform for ML related tasks.
-Created POC for General Motors for predictive maintenance of conveyor motors.
-Goal : to predict if a conveyor motor is going to fail or not.
-Created Anomaly detection model and created alerts for the same in the system.
-Deployed in IBM cloud using Watson Machine Learning studio.
+### Predictive maintenance of conveyor motors :
+- Worked on Atos Digital-Twin Platform for ML related tasks.
+- Created POC for General Motors for predictive maintenance of conveyor motors.
+- Goal : to predict if a conveyor motor is going to fail or not.
+- Created Anomaly detection model and created alerts for the same in the system.
+- Deployed in IBM cloud using Watson Machine Learning studio.
 
 ### Sentiment Analysis of legal documents: (NLP) :
-Created a machine learning model to detect sentiment of legal documents which is used in KYC refreshment process for corporates.
-Used Zero-Shot-Sequence-Classifier based on pre-trained NLI model to generate sentiments.
-Extracted important keywords from documents using KeyBERT.
-Created a flask app and deployed in Microsoft Azure cloud.
+- Created a machine learning model to detect sentiment of legal documents which is used in KYC refreshment process for corporates.
+- Used Zero-Shot-Sequence-Classifier based on pre-trained NLI model to generate sentiments.
+- Extracted important keywords from documents using KeyBERT.
+- Created a flask app and deployed in Microsoft Azure cloud.
 
 ### Data Science Salary Estimator : (Web Scapping and Regression Techniques) 
 • Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.                                  • Scraped over 1000 job descriptions from glassdoor using python and selenium.  
