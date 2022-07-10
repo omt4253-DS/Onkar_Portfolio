@@ -1,6 +1,11 @@
-# Onkar_Portfolio
-Motivated, team-work oriented and an experienced Data Scientist who takes pride in building models that translate data points into business insights. Interested in working on projects offering learning and understanding in the fields of Machine Learning, Deep Learning, Natural Language Processing, Big Data Analytics and Data Visualization.                                                    
-Currently, I am working as Data Scientist at BioEnable Technologies, Pune.                                                           
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
+<h1 align="center">Hi 👋, I'm Onkar Tummanpalli</h1>
+<h3 align="center">A passionate Data Scientist from India</h3>
+
+### Glad to see you here!
+I am a motivated, team-work oriented and an experienced Data Scientist who takes pride in building models that translate data points into business insights. Interested in working on projects offering learning and understanding in the fields of Machine Learning, Deep Learning, Natural Language Processing, Big Data Analytics and Data Visualization.                                                                                                               
 Please find below list of some of the interesting projects I have worked on. For complete list please check other repositories.        
 
 
@@ -47,7 +52,11 @@ Please find below list of some of the interesting projects I have worked on. For
 
 •	Created web application for image verification (used OpenCV) and deployed on Google Cloud Platform.                                
 •	User uploaded images (Registration Folder) are compared with Verification (Verification Folder) images.                             
-•	Structural Similarity Score(SSIM) is calculated and if its greater than threshold, images are declared to be identical.             
+•	Structural Similarity Score(SSIM) is calculated and if its greater than threshold, images are declared to be identical.  
+
+
+- ⚡ Fun fact: I use tabs over spaces 
+- 📫 How to reach me **omt4253@gmail.com**
 
 
 
