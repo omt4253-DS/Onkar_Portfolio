@@ -12,7 +12,7 @@ Please find below list of some of the interesting projects I have worked on. For
 ### Speech to Text conversion : 
 - Worked on speech detection problems.
 - Converted IVR audio clips to text.
-- Trained Deepspeech model on IVR dataset and converted speecg to text.
+- Trained Deepspeech model on IVR dataset and converted speech to text.
 
 ### Predictive maintenance of conveyor motors :
 - Worked on Atos Digital-Twin Platform for ML related tasks.
@@ -37,9 +37,9 @@ Please find below list of some of the interesting projects I have worked on. For
 •	This project is to build a model that predicts the human activities such as Walking, Walking Upstairs, Walking Downstairs, 
   Sitting, Standing or Laying.                                                                      
 •	The data is recorded with the help of sensors (accelerometer and Gyroscope) in Smartphone which is attached
-  to 30 different persons performing different activities.Dataset is available at  UCI machine learning repository.                   
+  to 30 different persons performing different activities.Dataset is available at UCI machine learning repository.                   
 •	Applied various classification techniques like Decision Tree, Random Forest,Support Vector Machines and achieved accuracy of
-  more than 90 %.                                                                                                    
+  more than 90%.                                                                                                    
 
 ### Quora-Question-Pair Similarity: (Natural Language Processing) :
 •	Over 100 million people visit Quora every month, so it's no surprise that many people ask similarly worded questions.
